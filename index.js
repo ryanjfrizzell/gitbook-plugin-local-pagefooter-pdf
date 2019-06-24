@@ -13,9 +13,6 @@ module.exports = {
         _copy = 'powered by Gitbook',
         _islocal = true;
       if (this.options.pluginsConfig['local-pagefooter-pdf']) {
-        _label = this.options.pluginsConfig['local-pagefooter']['modify_label'] || _label;
-        _format = this.options.pluginsConfig['local-pagefooter']['modify_format'] || _format;
-
         var _c = this.options.pluginsConfig['local-pagefooter-pdf']['copyright'];
         _copy = _c;
       }

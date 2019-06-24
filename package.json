@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-local-pagefooter-pdf",
   "description": "Customize the footer of each article, you can add copyright and document reversion of time",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": {
     "name": "ryanjfrizzell",
     "email": "ry.frizzellATGEEmail.com"
