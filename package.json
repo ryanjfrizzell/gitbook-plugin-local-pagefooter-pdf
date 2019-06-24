@@ -1,11 +1,11 @@
 {
-  "name": "gitbook-plugin-local-pagefooter",
+  "name": "gitbook-plugin-local-pagefooter-pdf",
   "description": "Customize the footer of each article, you can add copyright and document reversion of time",
   "main": "index.js",
-  "version": "1.0.5",
+  "version": "0.0.1",
   "author": {
-    "name": "webkong",
-    "email": "772930508@qq.com"
+    "name": "ryanjfrizzell",
+    "email": "ry.frizzellATGEEmail.com"
   },
   "keywords": [
     "gitbook",
@@ -16,10 +16,10 @@
   "engines": {
     "gitbook": ">=3.2.2"
   },
-  "homepage": "https://github.com/webkong/gitbook-plugin-local-pagefooter",
+  "homepage": "https://github.com/ryanjfrizzell/gitbook-plugin-local-pagefooter-pdf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webkong/gitbook-plugin-local-pagefooter.git"
+    "url": "git@github.com:ryanjfrizzell/gitbook-plugin-local-pagefooter-pdf.git"
   },
   "license": "MIT",
   "dependencies": {
